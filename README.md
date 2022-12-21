@@ -1,6 +1,6 @@
 # Vetter: Visual-Aware Testing and Debugging for Web Performance Optimization
 
-![license](https://img.shields.io/badge/License-MIT-blue "MIT") ![license](https://img.shields.io/badge/System-Vetter-green "System") ![license](https://img.shields.io/badge/Version-Beta-yellow "Version")
+![license](https://img.shields.io/badge/License-MIT-blue "License") ![license](https://img.shields.io/badge/System-Vetter-green "System") ![license](https://img.shields.io/badge/Version-Beta-yellow "Version")
 
 ## 0. Table of Contents
 
