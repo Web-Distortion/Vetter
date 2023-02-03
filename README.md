@@ -363,7 +363,7 @@ Below, we list all the defects we have found for four representative WPOs: Compy
 
 We collected the web page snapshots as well as invocation logs of SKPaint APIs when visiting Alexa top and bottom 2,500 websites on Dec. 9th, 2021, which are available in `snapshot.zip` and `skpdata.tar.gz` respectively in the <a href="https://drive.google.com/drive/folders/186QVPhd5jGKOkaKUp0HYpbm4CQelOJsw?usp=sharing">Google Drive</a>. Besides, we have made part of our dataset available in `results_of_user_study.zip` in <a href="https://drive.google.com/drive/folders/186QVPhd5jGKOkaKUp0HYpbm4CQelOJsw?usp=sharing">Google Drive</a>.
 
-### 6. References
+## 6. References
 
 ```
 @inproceedings {xinlei2023vetter,
