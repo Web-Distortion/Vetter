@@ -14,7 +14,7 @@
 
 [5. Data Release](#5-data-release)
 
-
+[6. References](#6-references)
 
 ## 1. Overview
 
@@ -361,5 +361,17 @@ Below, we list all the defects we have found for four representative WPOs: Compy
 
 ## 5. Data Release
 
-We collected the web page snapshots as well as invocation logs of SKPaint APIs when visiting Alexa top and bottom 2,500 websites on Dec. 9th, 2021, which are available in `snapshot.zip` and `skpdata.tar.gz` respectively in the <a href="https://drive.google.com/drive/folders/186QVPhd5jGKOkaKUp0HYpbm4CQelOJsw?usp=sharing">Google Drive</a>. Besides, we have made part of our dataset available in `results_of_user_study.zip` in <a href="https://drive.google.com/drive/folders/186QVPhd5jGKOkaKUp0HYpbm4CQelOJsw?usp=sharing">Google Drive</a> (the remaining part will be publicly available when the paper is published).
+We collected the web page snapshots as well as invocation logs of SKPaint APIs when visiting Alexa top and bottom 2,500 websites on Dec. 9th, 2021, which are available in `snapshot.zip` and `skpdata.tar.gz` respectively in the <a href="https://drive.google.com/drive/folders/186QVPhd5jGKOkaKUp0HYpbm4CQelOJsw?usp=sharing">Google Drive</a>. Besides, we have made part of our dataset available in `results_of_user_study.zip` in <a href="https://drive.google.com/drive/folders/186QVPhd5jGKOkaKUp0HYpbm4CQelOJsw?usp=sharing">Google Drive</a>.
+
+### 6. References
+
+```
+@inproceedings {xinlei2023vetter,
+    author = {Xinlei Yang, Wei Liu, Hao Lin, Zhenhua Li, Feng Qian, Xianlong Wang, Yunhao Liu and Tianyin Xu},
+    title = {Visual-Aware Testing and Debugging for Web Performance Optimization},
+    booktitle = {Proceedings of the International World Wide Web Conference (WWW)},
+    year = {2023},
+    publisher = {ACM}
+  }
+```
 
